@@ -1,5 +1,6 @@
 # MathMath
 Simple Java Math Game for kids
+Coding level: Beginner
 ## Usage
 Feel free to use the code for: 
 - learning how to build your own simple math game by customising the code
